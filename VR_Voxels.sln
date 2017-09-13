@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Voxels.Plugins", "VR_Voxels.Plugins.csproj", "{535DBC96-0F3A-50A9-5379-24956F358501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Voxels", "VR_Voxels.csproj", "{2CB6C06B-33B3-5F51-641E-F6CD22052999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Voxels.Editor", "VR_Voxels.Editor.csproj", "{8AAFB3B4-2F7B-5927-C164-0CD3E517D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535DBC96-0F3A-50A9-5379-24956F358501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535DBC96-0F3A-50A9-5379-24956F358501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535DBC96-0F3A-50A9-5379-24956F358501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535DBC96-0F3A-50A9-5379-24956F358501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB6C06B-33B3-5F51-641E-F6CD22052999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB6C06B-33B3-5F51-641E-F6CD22052999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB6C06B-33B3-5F51-641E-F6CD22052999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB6C06B-33B3-5F51-641E-F6CD22052999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAFB3B4-2F7B-5927-C164-0CD3E517D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAFB3B4-2F7B-5927-C164-0CD3E517D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAFB3B4-2F7B-5927-C164-0CD3E517D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAFB3B4-2F7B-5927-C164-0CD3E517D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
