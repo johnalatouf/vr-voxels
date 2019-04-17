@@ -15,3 +15,7 @@ Required plugins:
 Leap Motion found here https://developer.leapmotion.com/unity#116
 Leap Motion Modules
 ObjParser found here https://github.com/stefangordon/ObjParser
+
+Thesis:
+http://www.johnalatouf.com/SCHOOL/thesis/thesis_johnalatouf.pdf
+http://www.johnalatouf.com/SCHOOL/thesis/thesis_presentation_small.pptx
